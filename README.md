@@ -6,6 +6,8 @@
 
 * Planet Signup: <https://bit.ly/planetstanford>  
 
+* Etherpad: https://pad.riseup.net/p/planet-stanford-lovedataweek
+
 * Slides: <https://slides.com/staceymaples/planet-stanford-lovedataweek/>
 
 * GISDay@Stanford w/Planet.com Workshops Notebooks/Data Download: <https://hello.planet.com/data/s/sdtjXQAPQpmBBbc>
