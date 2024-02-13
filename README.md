@@ -14,7 +14,7 @@
 
 * Make an AOI GeoJSON file: <https://geojson.io/#map=15.05/37.42155/-122.17619>
 
-* Use this file for the workshop: <https://raw.githubusercontent.com/StanfordGeospatialCenter/Planet_API_101/main/lakelagunita.geojson>
+* Use this file for the workshop. Download it to your machine, then drag&drop it to your Colabs File Panel, once you have the Python Notebook opened: <https://raw.githubusercontent.com/StanfordGeospatialCenter/Planet_API_101/main/lakelagunita.geojson>
 
 ## Open the Notebook in Colab
 
