@@ -8,6 +8,15 @@
 
 * GISDay@Stanford w/Planet.com Workshops Notebooks/Data Download: <https://hello.planet.com/data/s/sdtjXQAPQpmBBbc>
 
+## Introduction to Planet.com
+
+A Sample Search in Planet Explorer:
+https://www.planet.com/explorer/?s=_wu2NPKDRVmXRy6PYcUCHQ
+
+
+
+
+
 ## Area of Interest (AOI)
 
 * Make an AOI GeoJSON file for your own area (You can just save this for later): <https://geojson.io/#map=15.05/37.42155/-122.17619>
@@ -19,3 +28,4 @@
 * Go to: https://colab.research.google.com/
 
 * Use this link in Colab: <https://github.com/StanfordGeospatialCenter/Planet_API_101>
+
