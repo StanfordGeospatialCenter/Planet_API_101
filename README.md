@@ -1,10 +1,8 @@
 # Planet_API_101
  A quick introduction to searching and ordering through the Planet API
 
- ### Registration:  
- https://www.eventbrite.com/e/planetscope-satellite-imagery-101-tickets-827526834037
 
-* Planet Signup: <https://bit.ly/planetstanford>  
+* Planet Signup (stanford.edu only): <https://bit.ly/planetstanford>  
 
 * Slides: <https://slides.com/staceymaples/planet-stanford-lovedataweek/>
 
