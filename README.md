@@ -37,6 +37,24 @@ Accessing the tiles, programmatically
 
 * Mercantile: https://mercantile.readthedocs.io/en/stable/quickstart.html 
 
+### Integrations
+
+#### QGIS
+https://developers.planet.com/docs/integrations/qgis/
+
+#### ArcGIS Pro
+https://developers.planet.com/docs/integrations/arcgis/ 
+
+#### Google Earth Engine
+
+https://developers.planet.com/docs/integrations/gee/ 
+
+https://developers.planet.com/docs/integrations/gee/quickstart/
+
+
+
+
+
 ## Area of Interest (AOI)
 
 * Later, when you are interested in quickly making an AOI GeoJSON file for your own area, you can use geojson.io (You can just save this for later): <https://geojson.io/#map=15.05/37.42155/-122.17619>
