@@ -10,8 +10,17 @@
 
 ## Introduction to Planet.com
 
-A Sample Search in Planet Explorer:
+* Searching in Explorer
+* A Sample Search in Planet Explorer:
 https://www.planet.com/explorer/?s=_wu2NPKDRVmXRy6PYcUCHQ
+* Features Manager
+
+* Ordering data in the GUI
+* Code Snippets
+* Viewing & Symbolizing Basemaps in Explorer
+* Basemap Viewer
+
+
 
 
 
@@ -27,5 +36,10 @@ https://www.planet.com/explorer/?s=_wu2NPKDRVmXRy6PYcUCHQ
 
 * Go to: https://colab.research.google.com/
 
-* Use this link in Colab: <https://github.com/StanfordGeospatialCenter/Planet_API_101>
+* Use this link in Colab: <https://github.com/StanfordGeospatialCenter/Planet_API_101> 
 
+Or click the link, below:
+
+<a target="_blank" href="https://colab.research.google.com/github/StanfordGeospatialCenter/Planet_API_101/blob/main/planet_API_101_LakeLagunita.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
