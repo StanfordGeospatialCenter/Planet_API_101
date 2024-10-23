@@ -1,6 +1,7 @@
 # Planet_API_101
  A quick introduction to searching and ordering through the Planet API
 
+Slides: https://slides.com/staceymaples/planet-stanford-lovedataweek 
 
 * Planet Signup (stanford.edu only): <https://bit.ly/planetstanford>  
 
