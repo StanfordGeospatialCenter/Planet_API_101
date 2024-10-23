@@ -41,5 +41,5 @@ https://www.planet.com/explorer/?s=_wu2NPKDRVmXRy6PYcUCHQ
 Or click the link, below:
 
 <a target="_blank" href="https://colab.research.google.com/github/StanfordGeospatialCenter/Planet_API_101/blob/main/planet_API_101_LakeLagunita.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" target="_blank"/>
 </a>
