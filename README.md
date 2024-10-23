@@ -73,3 +73,16 @@ Or click the link, below:
 <a target="_blank" href="https://colab.research.google.com/github/StanfordGeospatialCenter/Planet_API_101/blob/main/planet_API_101_LakeLagunita.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+
+## More on Planet:
+
+
+The SGC Guide to Planet at Stanford:  
+https://guides.library.stanford.edu/c.php?g=1013467&p=10216495
+
+Planet University:  
+https://university.planet.com/  
+
+Planet Notebooks:  
+https://github.com/planetlabs/notebooks/tree/master/jupyter-notebooks 
