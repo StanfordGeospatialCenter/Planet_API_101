@@ -10,6 +10,8 @@
 
 ## Introduction to Planet.com
 
+### Explorer
+
 * Searching in Explorer
 * A Sample Search in Planet Explorer:
 https://www.planet.com/explorer/?s=_wu2NPKDRVmXRy6PYcUCHQ
@@ -18,17 +20,26 @@ https://www.planet.com/explorer/?s=_wu2NPKDRVmXRy6PYcUCHQ
 * Ordering data in the GUI
 * Code Snippets
 * Viewing & Symbolizing Basemaps in Explorer
-* Basemap Viewer
 
+### Basemap Viewer
 
+Quick overview of web maps & tile services: https://slides.com/d/uOzMMKQ/live#/3/1 
 
+Klokan's Interactive Tile Demo: https://docs.maptiler.com/google-maps-coordinates-tile-bounds-projection/#2/40.33/14.82 
 
+* https://www.planet.com/basemaps/#/mode/selection/mosaic/global_quarterly_2024q3_mosaic/zoom/2.3
 
+* https://tiles{0-3}.planet.com/basemaps/v1/planet-tiles/global_quarterly_2024q3_mosaic/gmap/{z}/{x}/{y}.png?api_key={api-key}
 
+Accessing the tiles, programmatically
+
+* https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_2024q3_mosaic/gmap/0/0/0.png?api_key={api-key}
+
+* Mercantile: https://mercantile.readthedocs.io/en/stable/quickstart.html 
 
 ## Area of Interest (AOI)
 
-* Make an AOI GeoJSON file for your own area (You can just save this for later): <https://geojson.io/#map=15.05/37.42155/-122.17619>
+* Later, when you are interested in quickly making an AOI GeoJSON file for your own area, you can use geojson.io (You can just save this for later): <https://geojson.io/#map=15.05/37.42155/-122.17619>
 
 * Use this file for the workshop: <https://raw.githubusercontent.com/StanfordGeospatialCenter/Planet_API_101/main/lakelagunita.geojson> (Download it to your machine, then drag&drop it to your Colabs File Panel, once you have the Python Notebook opened)
 
